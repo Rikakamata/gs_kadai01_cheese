@@ -2,9 +2,7 @@
 /* 1200pxで作成する↓ ※レスポンシブレアウトができる方は100％幅で作成しても構いません */
 /* 1 */
 /* test */
-body{
-    cursor: none;
-}    
+
 #header{
         width:1200px;
         margin:auto;
@@ -604,7 +602,7 @@ input[type=checkbox]{margin-right:10px;}
     font-family:MS ゴシック; 
     color:#222222;  
     margin-bottom: 24px;
-    background-coloe: pink;
+    background-color: pink;
  
 }
 
